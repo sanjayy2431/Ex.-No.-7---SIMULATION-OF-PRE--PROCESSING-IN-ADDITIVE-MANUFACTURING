@@ -41,14 +41,8 @@
 ## OUTPUT:
 ![image](https://raw.githubusercontent.com/sanjayy2431/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/main/empd7..png)
 ![image](https://raw.githubusercontent.com/sanjayy2431/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/main/empd7...png)
-
-
-
 ## Output:
-
 ### Name: v.sanjay
 ### Register Number: 23012749
-
-
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
